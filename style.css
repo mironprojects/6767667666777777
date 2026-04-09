@@ -1,0 +1,67 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+body{
+	background:url(img/осінь26.jpg);
+	background-size: cover;
+}
+.box{
+	width:960px;
+	height:1000px;
+	margin:50px auto;
+	background:#fff;
+	border:20px;
+}
+img{
+	padding-top:20px;
+	height:200px;
+	text-align:center;
+}
+h1{
+	text-align:center;
+	color: white;
+	font-size:50px;
+}
+h2{
+	font-size:40px;
+	padding-top:20px;
+	color: white;
+	text-align:center;
+}
+h3{
+	fant-size:30px;
+	text-align:center;
+	padding-top:20px;
+	color: white;
+}
+h4{
+	font-size:20px;
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	color: white;
+	background:#738b2a;
+	padding-top:10px;
+}
+p{
+	color: white;
+	fant-size:20px;
+}
+.poem{
+	text-align:center;
+	padding-top:10px;
+}
+.text1{
+	text-align:left;
+}
+.text2{
+	text-align:right;
+}
+.text3{
+	text-align:center;
+}
+.image{
+	text-align:center;
+}
